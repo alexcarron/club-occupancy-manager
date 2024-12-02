@@ -1,6 +1,6 @@
 # **Club Occupancy Manager**  
 
-A web application for managing club occupancy and performing CRUD operations on club data. This project was developed as part of the *SWEn-344 Engineering of Web-Based Software Systems* course, utilizing modern web development technologies.  
+A web application for managing club occupancy and performing CRUD operations on club data. This project was developed as part of the *SWEN-344 Engineering of Web-Based Software Systems* course, utilizing modern web development technologies.  
 
 ## **Features**  
 - Responsive user interface built with React and Reactstrap.  
