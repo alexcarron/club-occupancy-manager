@@ -18,6 +18,27 @@ A web application for managing club occupancy and performing CRUD operations on 
 
 ---
 
+## **Screnshots**
+
+### **Club Management**
+The home page CRUD interface for adding, editing, deleting, and viewing club details.
+![Club Management Page Screenshot](screenshots/club-management.png)
+
+### **Creating a Club**
+A modal for creating a new club with specified details
+![Creating a Club Screenshot](screenshots/create-club.png)
+
+### **Editing a Club**
+A modal for editing a club's specified detils
+![Editing a Club Screenshot](screenshots/edit-club.png)
+
+### **Deleting a Club**
+A modal for deleting a club
+![Deleting a Club Screenshot](screenshots/delete-club.png)
+
+
+---
+
 ## **Setup and Installation**  
 
 1. **Clone the Repository**:  
