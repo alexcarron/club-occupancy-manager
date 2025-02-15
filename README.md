@@ -18,7 +18,7 @@ A web application for managing club occupancy and performing CRUD operations on 
 
 ---
 
-## **Screnshots**
+## **Screenshots**
 
 ### **Club Management**
 The home page CRUD interface for adding, editing, deleting, and viewing club details.
